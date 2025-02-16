@@ -20,7 +20,8 @@
 
 ## 관리자 페이지 시연 영상
 관리자 페이지의 기능(회원 관리, 공지 및 이벤트 관리) 시연<br/>
-[![관리자페이지](https://vumbnail.com/관리자.jpg)](https://vimeo.com/관리자)
+![관리자 페이지 시연 영상](https://github.com/C-hyunsik/moeego_video/raw/main/관리자.mp4)
+- 유튜브 정책 문제로 인해 다운로드 링크로 변경
 
 ## 네이버 및 카카오 SNS 로그인
 SNS 로그인 서비스 시연<br/>
