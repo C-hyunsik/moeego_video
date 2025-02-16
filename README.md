@@ -17,4 +17,5 @@
 [![YouTube Video](https://img.youtube.com/vi/uCi8IKE5kqU/0.jpg)](https://youtu.be/uCi8IKE5kqU)
 
 ## 네이버 및 카카오 SNS 로그인
-![GIF 설명](네이버로그인.gif)
+![네이버 SNS 로그인](네이버로그인.gif)
+![카카오 SNS 로그인](카카오로그인.gif)
