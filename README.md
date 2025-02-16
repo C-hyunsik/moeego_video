@@ -18,8 +18,5 @@
 
 ## 네이버 및 카카오 SNS 로그인
 
-<div style="display: flex; justify-content: center; gap: 50px;">
-  <img src="네이버로그인.gif" alt="네이버 SNS 로그인">
-  <img src="카카오로그인.gif" alt="카카오 SNS 로그인">
-</div>
+![네이버 SNS 로그인](네이버로그인.gif)&nbsp;&nbsp;&nbsp;&nbsp;![카카오 SNS 로그인](카카오로그인.gif)
 
